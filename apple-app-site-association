@@ -2,7 +2,7 @@
  "applinks": {
      "details": [
           {
-            "appIDs": [ "com.joshuabseitz.finance" ],
+            "appIDs": [ "552FE6SCDL.joshuabseitz.finance" ],
             "components": [
               {
                  "/": "/plaid/*",
